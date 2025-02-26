@@ -1,4 +1,7 @@
-This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+This is using the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project to connect to a [LangGraph](https://github.com/langchain-ai/langgraph) assistant and provide a chat interface.
+
+The assistant is able to browse an [Elastic Path](https://www.elasticpath.com/) catalog and retrieve product information.
+
 
 ## Getting Started
 
